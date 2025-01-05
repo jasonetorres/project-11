@@ -7,7 +7,7 @@ export function InfoCards() {
     <div className="grid grid-cols-2 gap-4 pt-4">
       <Card className="p-4 bg-accent/50">
         <h3 className="font-semibold mb-1 text-foreground">Current Focus</h3>
-        <p className="text-sm text-foreground/80">Building the Largest Community of Developers on a talent platforem at Torc.dev</p>
+        <p className="text-sm text-foreground/80">Building the Largest Community of Developers on a talent platform at Torc.dev</p>
       </Card>
       <Card className="p-4 bg-accent/50">
         <h3 className="font-semibold mb-1 text-foreground">Experience</h3>
